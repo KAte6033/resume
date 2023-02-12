@@ -1,0 +1,18 @@
+.table{
+    width: 100%;
+}
+.table td{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.table td:hover{
+    background: cornflowerblue;
+}
+.table tr:nth-child(odd){
+    background-color: aqua;
+
+}
+.table tr:nth-child(even){
+    background-color: hwb(163 20% 9%);
+
+}

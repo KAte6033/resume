@@ -1,0 +1,23 @@
+a{
+    color:#333;
+    text-decoration:none;
+
+}
+a:hover{color:orange;
+}
+a:visited{color:olive;
+
+}
+.btn{
+    border:none;
+    border-radius: 5px;
+    background: rgb(229, 229, 146);
+    cursor: pointer;
+    padding: 15px 20px;
+    font-family: inherit;
+    border:solid 2px rgb(180, 240, 223);
+}
+.btn:hover{
+    opacity: 0.8;
+    
+}
